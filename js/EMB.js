@@ -1,5 +1,5 @@
 
-const EthMB = "0x8300cbee453bcf3ea7807da6489519203ce409d9";
+const EthMB = "0xF7253133882D2e4dA115d57CfBF7aBdAE1860767";
 
 
 const ABI = () => {
